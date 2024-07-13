@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TON FUCK SCAMMERS (TFS) - Cryptocurrency Contract</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      padding: 20px;
+    }
+    .contract-details {
+      background-color: white;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      padding: 10px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <div class="contract-details">
+    <h1>TON FUCK SCAMMERS (TFS) - Cryptocurrency Contract</h1>
+    <table>
+      <tr>
+        <th>Contract Details</th>
+        <th></th>
+      </tr>
+      <tr>
+        <td>Currency Name</td>
+        <td>TON FUCK SCAMMERS (TFS)</td>
+      </tr>
+      <tr>
+        <td>Initial Supply</td>
+        <td>13,000,000,000 TFS</td>
+      </tr>
+      <tr>
+        <td>Burning Plan</td>
+        <td>1,600,000,000 TFS to be burned over 6 months</td>
+      </tr>
+      <tr>
+        <td>Circulating Supply after Burning</td>
+        <td>11,400,000,000 TFS</td>
+      </tr>
+      <tr>
+        <td>Locked Tokens</td>
+        <td>5,000,000,000 TFS locked for 1 year</td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>
